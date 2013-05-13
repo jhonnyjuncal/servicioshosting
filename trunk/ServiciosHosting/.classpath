@@ -20,5 +20,6 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/ezmorph.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hsqldb-1.8.0.7.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
